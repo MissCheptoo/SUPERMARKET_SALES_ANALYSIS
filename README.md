@@ -3,8 +3,11 @@
 This project involves the analysis of a supermarket sales dataset using Microsoft Excel. This repository contains a comprehensive analysis and visualization of a supermarket sales dataset sourced from [Kaggle](https://kaggle.com/datasets/aungpyaeap/supermarket-sales ). The goal of this project was to uncover insights into sales trends, branch performance, product line popularity, and customer behavior.  
 
 DATASET OVERVIEW:
+
 A. Source: Kaggle Supermarket Sales Dataset
+
 B. Columns:
+
   1. Invoice ID: Unique identifier for each transaction
   2. Branch: Branch identifier (A, B, C)
   3. City: City where the branch is located
